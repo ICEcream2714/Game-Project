@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1677125478 source:d:\git\game-project\gamelearning_1\bin\debug\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"../../include/RenderWindow.hpp"
+
+1677127376 d:\git\game-project\gamelearning_1\include\renderwindow.hpp
+	<SDL.h>
+	<iostream>
+
+1677125510 source:d:\git\game-project\gamelearning_1\bin\debug\renderwindow.cpp
+	<SDL.h>
+	<iostream>
+	"../../include/RenderWindow.hpp"
+
+1677126507 source:d:\git\game-project\gamelearning_1\src\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"../include/RenderWindow.hpp"
+
+1677126507 source:d:\git\game-project\gamelearning_1\src\renderwindow.cpp
+	<SDL.h>
+	<iostream>
+	"../include/RenderWindow.hpp"
+
